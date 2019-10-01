@@ -1,0 +1,6 @@
+This is a test code.
+#include<stdio.h>
+int main()
+{
+printf("Hello World");
+}
